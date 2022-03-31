@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>
+
+</title>
+<style>
+.wrap
+	{width:1000px;
+	height:666px;
+	border:10px solid #F8AFA6;
+	margin:auto;}
+
+
+.title
+{width:980px;
+	height:80px;
+	border:10px solid #F9BDC0;
+	background-color:#F9F1F0;}
+	
+	
+.menu
+{width:150px;
+	height:546px;
+	border:10px solid #FADCD9;
+	background-color:#F9F1F0;}
+
+.content
+{width:810px;
+	height:546px;
+	border:10px solid #F9CCD3;
+	background-color:#F9F1F0;
+	position:relative;
+	bottom:566px;
+	left:170px;}
+
+
+
+</style>
+</head>
+<body>
+<div class="wrap"> 
+<div class="title"> </div>
+<div class="menu"> </div>
+<div class="content"> </div>
+</div>
+</body>
+</html>
